@@ -48,7 +48,7 @@ const Myflights = ()=>{
                         </div>
                          
                         <p>
-                         Herr to go for your flights but sorry customers there is an error and Developer Sanjai Ragul Murugesan ir working on it...
+                         Herr to go for your flights but sorry customers Developer Sanjai Ragul Murugesan is working on it...
                         </p>
 
                     </Col>
