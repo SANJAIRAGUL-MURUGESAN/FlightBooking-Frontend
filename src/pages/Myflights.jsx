@@ -48,7 +48,7 @@ const Myflights = ()=>{
                         </div>
                          
                         <p>
-                        In this practical MERN stack project tutorial, I'm going to teach you, step-by-step, how to create a full mern stack tours & travels booking website using react js.
+                         Herr to go for your flights but sorry customers there is an error and Developer Sanjai Ragul Murugesan ir working on it...
                         </p>
 
                     </Col>
